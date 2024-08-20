@@ -38,15 +38,15 @@ Results of the strategy, including performance metrics and visualizations, are s
 
 - **Trade Log**: A detailed log of all trades executed during the backtest.
 - **Performance Metrics**: Key performance indicators like Sharpe ratio, maximum drawdown, and win/loss ratio.
--  ![Cumulative Returns Plot](Returns.png)
+![Cumulative Returns Plot](Returns.png)
  - **Drawdown**: Visualizes the drawdown over the backtesting period.
-   ![Drawdown](Drawdown.png)
+ ![Drawdown](Drawdown.png)
 
 ## Contact
 
 For any inquiries or issues, please contact:
 
 - **Name**: SALOMON Thomas
-- **Email**: [your.email@example.com](mailto:thomas.salomon@ensae.fr)
+- **Email**: [thomas.salomon@ensae.fr](mailto:thomas.salomon@ensae.fr)
 - **GitHub**: [yourusername](https://github.com/yourusername)
 
